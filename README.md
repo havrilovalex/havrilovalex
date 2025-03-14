@@ -1,3 +1,6 @@
 - 👋 Hi, I’m @havrilovalex
 - 👀 I’m interested in becoming python developer
-- 🌱 I’m currently learning Python/SQL
+I have learned:
+  Django, Git, Bash, PostgreSQL, HTML, CSS, Bootstrap, Unittest, pytest
+I am learning:
+  Django Rest Framework, Flask, FastAPI, Docker
