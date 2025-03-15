@@ -5,7 +5,7 @@
 ## 🛠️ **Технические навыки**
 
 ### **Основные компетенции**
-- **Backend-разработка**: Django, Django REST Framework (DRF)
+- **Backend-разработка**: Django, Django REST Framework (DRF), pyTelegramBotAPI
 - **Базы данных**: PostgreSQL, MySQL
 - **Системы контроля версий**: Git, GitHub
 - **Тестирование**: Unittest, pytest
