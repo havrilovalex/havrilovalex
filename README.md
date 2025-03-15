@@ -1,96 +1,82 @@
-# Welcome to My GitHub Portfolio! 👋
+# Добро пожаловать в мое GITHUB портфолио! 👋
 
 Меня зовут **Александр Гаврилов**, я хочу стать python backend разработчиком. Поэтому в данный момент обучаюсь в магистратуре СПбГУ, прохожу практику на биоинформатическом направлении. Являюсь студентом Яндекс Практикума, постоянно обучаюсь новым технологиям, расширяю свой стек.
 
----
+## 🛠️ **Технические навыки**
 
-## 🛠️ **Мой стек**
+### **Основные компетенции**
+- **Backend-разработка**: Django, Django REST Framework (DRF)
+- **Базы данных**: PostgreSQL, MySQL
+- **Системы контроля версий**: Git, GitHub
+- **Тестирование**: Unittest, pytest
+- **Основы фронтенда**: HTML, CSS, Bootstrap
+- **DevOps и деплой**: Bash, Nginx, Docker
 
-### **Основные
-
-**
-- **Backend Development**: Django, Django REST Framework (DRF), Flask, FastAPI
-- **Databases**: PostgreSQL, SQLAlchemy
-- **Version Control**: Git, GitHub
-- **Testing**: Unittest, pytest
-- **Frontend Basics**: HTML, CSS, Bootstrap
-- **DevOps & Deployment**: Bash, Gunicorn, Nginx, Docker
-- **Web Scraping & Automation**: Scrapy, Selenium
-
-### **Currently Learning**
-- **Advanced Backend Frameworks**: FastAPI, Flask
-- **DevOps Tools**: Docker, Nginx, Gunicorn
-- **Web Scraping & Automation**: Scrapy, Selenium
+### **Сейчас изучаю**
+- **Продвинутые фреймворки для бэкенда**: FastAPI, Flask, asyncio, Aiohttp
+- **Инструменты DevOps**: Docker, Nginx, Gunicorn
+- **Веб-скрапинг и автоматизация**: Scrapy, Selenium
 - **ORM**: SQLAlchemy
 
 ---
 
-## 🎓 **Education**
-- **Bachelor's Degree in Biology**  
-  Saint Petersburg State University (SPbU)  
-  *Graduated: [Year]*
+## 🎓 **Образование**
+- **Бакалавр биологии**  
+  Санкт-Петербургский государственный университет (СПбГУ)  
+  *Год окончания: 2024*
 
-- **Master's Degree in [Your Field]** (In Progress)  
-  Saint Petersburg State University (SPbU)  
-  *Expected Graduation: [Year]*  
-  **Current Practice**: Developing bioinformatics tools for [specific application, e.g., genomic analysis].
-
----
-
-## 🚀 **Projects**
-
-### 1. **[Project Name]**  
-   **Description**: A brief description of the project.  
-   **Tech Stack**: Django, PostgreSQL, Bootstrap, pytest  
-   **GitHub Link**: [Link to the repository]
-
-### 2. **[Project Name]**  
-   **Description**: A brief description of the project.  
-   **Tech Stack**: Flask, SQLAlchemy, Docker  
-   **GitHub Link**: [Link to the repository]
-
-### 3. **[Project Name]**  
-   **Description**: A brief description of the project.  
-   **Tech Stack**: FastAPI, Scrapy, Selenium  
-   **GitHub Link**: [Link to the repository]
+- **Магистратура по биоинформатике** (в процессе)  
+  Санкт-Петербургский государственный университет (СПбГУ)  
+  *Ожидаемый год окончания: 2026*  
+  **Текущая практика**: Разработка биоинформатических инструментов для протеомного анализа амилоидогенности белков на языке Python.
 
 ---
 
-## 🌱 **Future Goals**
-- Master **FastAPI** for building high-performance APIs.
-- Gain hands-on experience with **Docker** for containerization and deployment.
-- Explore **CI/CD pipelines** for automated testing and deployment.
-- Contribute to open-source projects to enhance collaboration and coding skills.
+## 🚀 **Проекты**
+
+### 1. **Онлайн магазин WTShop**  
+   **Описание**: Краткое описание проекта.  
+   **Технологии**: Django, PostgreSQL, Bootstrap, pytest  
+   **Ссылка на GitHub**: [Ссылка на репозиторий]
+
+### 2. **[Название проекта]**  
+   **Описание**: Краткое описание проекта.  
+   **Технологии**: Flask, SQLAlchemy, Docker  
+   **Ссылка на GitHub**: [Ссылка на репозиторий]
+
+### 3. **[Название проекта]**  
+   **Описание**: Краткое описание проекта.  
+   **Технологии**: FastAPI, Scrapy, Selenium  
+   **Ссылка на GitHub**: [Ссылка на репозиторий]
 
 ---
 
-## 📫 **Let's Connect!**
-I'm always open to new opportunities, collaborations, and discussions about backend development, bioinformatics, or anything tech-related. Feel free to reach out to me:
-
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Telegram**: [Your Telegram Handle]
-- **Portfolio Website**: [Your Portfolio URL] (if applicable)
+## 🌱 **Цели на будущее**
+- Освоить **FastAPI** для создания высокопроизводительных API.
+- Получить практический опыт работы с **Docker** для контейнеризации и деплоя.
+- Изучить **CI/CD pipelines** для автоматизации тестирования и деплоя.
+- Внести вклад в open-source проекты для улучшения навыков collaboration и coding.
 
 ---
 
-## 📊 **GitHub Stats**
+## 📫 **Свяжитесь со мной!**
+Я всегда открыт для новых возможностей, сотрудничества и обсуждений на темы бэкенд-разработки, биоинформатики или всего, что связано с технологиями. Не стесняйтесь написать мне:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
----
-
-## 🏆 **Achievements**
-- [Any awards, certifications, or recognitions you've received]
-- [Open-source contributions or notable projects]
+- **Email**: havrilovalex02@gmail.com
+- **Telegram**: @alexgavrouni
+- **Портфолио**: См. закрепленные репозитории
 
 ---
 
-## 💡 **Fun Fact**
-Did you know? My background in biology has taught me to approach problem-solving with a systematic and analytical mindset, which I now apply to coding and software development!
+## 📊 **Статистика GitHub**
+
+![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=ВашGitHubUsername&show_icons=true&theme=radical)
+
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ВашGitHubUsername&layout=compact&theme=radical)
 
 ---
 
-Thank you for visiting my GitHub profile! Let's build something amazing together. 😊
+## 🏆 **Достижения**
+- Автор научных статей, участник российских и международных научных конференций
+
+---
