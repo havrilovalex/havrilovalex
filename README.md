@@ -70,9 +70,9 @@
 
 ## 📊 **Статистика GitHub**
 
-![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=ВашGitHubUsername&show_icons=true&theme=radical)
+![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=havrilovalex&show_icons=true&theme=radical)
 
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ВашGitHubUsername&layout=compact&theme=radical)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=havrilovalex&layout=compact&theme=radical)
 
 ---
 
